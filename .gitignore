@@ -1,3 +1,2 @@
 *.exe
-02_ConditionalStatements_loops
-.gitignore
+.vscode
