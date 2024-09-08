@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.java": "java",
+        "*.jsx": "javascriptreact",
+        "*.cpp": "cpp",
+        "ostream": "cpp"
+    }
+}
