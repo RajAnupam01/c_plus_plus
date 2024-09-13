@@ -1,0 +1,1 @@
+// find smallest and largest number in array with index.
